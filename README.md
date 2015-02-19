@@ -18,6 +18,7 @@ built on an .Net MVC WebApiController
 
 
 
+This Single Page App (SPA) features:
 
 ############################################################################################################################
 A) AngularJS Single Page App (SPA)  supporting all CRUD functionality:
