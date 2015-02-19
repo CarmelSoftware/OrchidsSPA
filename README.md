@@ -9,8 +9,11 @@ APPLICATION DESCRIPTION :
 
 1) This SPA app is built on the AngularJS javascript framework, and connects to an OData WebAPI 
 built on an .Net MVC WebApiController
+
 2) The OData WebAPI v4.0 preserves data in XML files
+
 3) The data is fetched by the Web API REST web service through a Data Repository
+
 4) All style design is based on the Twitter Bootstrap
 
 
