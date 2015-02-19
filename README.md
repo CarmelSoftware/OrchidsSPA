@@ -1,5 +1,5 @@
 # OrchidsSPA
-An AngularJS Single Page App connected to an OData RESTful Web API, supporting all CRUD functionality
+AngularJS Single Page App connected to an OData RESTful Web API, featuring all CRUD functionality
 Carmel Schvartzman's OData RESTful WEB API & Single Page Application (SPA) :
 ---------------------------------------------------------------------- 
 
