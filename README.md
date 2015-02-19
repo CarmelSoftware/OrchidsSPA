@@ -20,19 +20,22 @@ built on an .Net MVC WebApiController
 
 
 ############################################################################################################################
-1) AngularJS Single Page App (SPA)  supporting all CRUD functionality:
+A) AngularJS Single Page App (SPA)  supporting all CRUD functionality:
 
   	  http://carmelwebapi.somee.com/AngularJS/OrchidsSPA.html
 
 
 
 ############################################################################################################################
-2) WebAPI:  "OrchidsWebAPIController" : ApiController    
+B) WebAPI:  "OrchidsWebAPIController" : ApiController    
         - database = XML file - OData RESTful  
 		- RETURNS : XML(get)/JSON(post - patch - delete)
         - supplies JSON data to :
+        - 
 		     1) Ajax enabled web page :  http://carmelwebapi.somee.com/
-			   2) AngularJS SPA App :      http://carmelwebapi.somee.com/AngularJS/OrchidsSPA.html     
+
+	             2) AngularJS SPA App :      http://carmelwebapi.somee.com/AngularJS/OrchidsSPA.html     
+	             
 
 		- OData protocol call samples:
 
