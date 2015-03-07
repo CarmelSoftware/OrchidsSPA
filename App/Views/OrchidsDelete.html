@@ -1,0 +1,26 @@
+<div class="container">
+<div class="jumbotron">
+    <div class="" >    
+        <h2>Delete this Orchid</h2>  
+    </div> 
+        <form name="deleteOrchid" class=""
+            data-ng-submit="fnDelete()">
+            <input type="text" class="form-control"
+            placeholder="Title"
+            data-ng-model="Orchid.Title"
+            disabled>
+            <input type="text" class="form-control"
+            placeholder="Text"
+            data-ng-model="Orchid.Text"
+            disabled>
+            <input  data-ng-model="Orchid.MainPicture"  
+                class="form-control" 
+                disabled/> 
+            <input type="submit" class="btn btn-default  btn-lg"
+            value="Delete"
+            data-ng-disabled="fnDisable()" ><span>&nbsp;{{fnShowMsg()}}</span>
+        </form>
+    
+    <a href="#/">See All Flowers</a>
+</div>
+    </div>
