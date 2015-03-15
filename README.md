@@ -4,6 +4,7 @@ An AngularJS Single Page App connected to an OData RESTful Web API, featuring al
 Short Description:
 This Single Page Application (SPA) is designed for connecting to an OData RESTful WEB API , and can also be placed inside an MVC Asp.Net application
 by Carmel Schvartzman
+[http://themvcclub.blogspot.co.il/](http://themvcclub.blogspot.co.il/)
 ---------------------------------------------------------------------- 
 
 
